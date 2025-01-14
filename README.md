@@ -37,6 +37,6 @@ The Basic To-Do List Web App is an application which is user-friendly that helps
 ```
 - 2. Navigate to the project directory:
 ```bash
-   cd To-Do_List
+   cd To-Do_Webapp
 ```
 - 3. open the index.html file into your browser to run the app.
