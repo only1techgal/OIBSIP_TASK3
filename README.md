@@ -33,7 +33,7 @@ The Basic To-Do List Web App is an application which is user-friendly that helps
 ### ***How to View***
 - 1. Clone the repository:
 ```bash
-   git clone https://github.com/only1techgal/To-Do_List.git
+   git clone https://github.com/only1techgal/OIBSIP_TASK3.git
 ```
 - 2. Navigate to the project directory:
 ```bash
